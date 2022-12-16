@@ -21,7 +21,7 @@ const Footer = () => (
           <span className="font-normal text-[16px]">TWITTER </span>
         </button>
         <button onClick={() => window.location.replace(userData.github)} type="button" className="flex items-center rounded-[32px] gap-[12px] h-fit py-4 p-6 bg-[#25618b] text-white">
-          <img src="/twitter.svg" alt="" className="w-[24px] h-[24px] object-contain" />
+          <img src="/headset.svg" alt="" className="w-[24px] h-[24px] object-contain" />
           <span className="font-normal text-[16px]">GitHub </span>
         </button>
       </div>

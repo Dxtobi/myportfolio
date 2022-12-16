@@ -29,10 +29,10 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick, desc }) =>
             <div className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[24px] glassmorphism mb-[16px]`}>
               <img src="/twitter.svg" alt="" className="w-1/2 h-1/2 object-contain" />
             </div>
-            <div className="uppercase font-normal text-[16px] leading-[20px] text-white">
+            <a href="https://elaborate-cascaron-699313.netlify.app/" className="uppercase font-normal text-[16px] leading-[20px] text-white">
               CONTACT
               <p className="lowercase font-normal text-[14px]">@programmer_dex</p>
-            </div>
+            </a>
             <h2 className="mt-[24px] font-semibold text-white sm:text-[32px] tet-[24px]">
               {title}
             </h2>

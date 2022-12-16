@@ -198,7 +198,7 @@ export const tools = [
 export const userData = {
   name: 'Akanbi Joseph',
   headerName: 'OLUWATOBI',
-  github: 'https://github.com/dxtobi',
+  github: 'https://github.com/Dxtobi',
   twitter: 'https://twitter.com/programmer_dex',
   whatIDo: 'WEB DEV | APP DEV',
   description: "Hello I'am a Freelancer providing services for programing and designs contact me lets get creative ;)",
